@@ -37,7 +37,7 @@ Resale-GST-Predictor/
 ├─ app.py               # Streamlit application
 ├─ requirements.txt     # Python dependencies
 └─ README.md            # Project overview
-
+```
 
 
 ## 📊 Screenshots
