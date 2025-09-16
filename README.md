@@ -29,6 +29,7 @@ This interactive tool helps users quickly estimate vehicle prices and understand
 
 ## 📂 Folder Structure
 
+```text
 Resale-GST-Predictor/
 ├─ data/                # CSV datasets
 ├─ models/              # Saved .pkl models & column info
