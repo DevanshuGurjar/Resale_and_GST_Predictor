@@ -42,9 +42,9 @@ Resale-GST-Predictor/
 
 ## 📊 Screenshots
 
-![Resale Car Value](images/image.png)
-![New Bike Price - 1](images/image-1.png)
-![New Bike Price - 2](images/image-2.png)
+![Resale Car Value](images/img1.png)
+![New Bike Price - 1](images/img2.png)
+![New Bike Price - 2](images/img3.png)
 
 
 
